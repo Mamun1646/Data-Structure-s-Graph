@@ -1,1 +1,1 @@
-# Data-Structure-s-Graph
+# Data-Structures-Graph
